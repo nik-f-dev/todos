@@ -28,17 +28,13 @@ To install and run this application locally, follow these steps:
 
 To start the development server, run:
 
-    ```
     npm start
-    ```
 
 ## Testing
 
 To run tests, use the following command:
 
-    ```
     npm test
-    ```
 
 This will execute unit tests using the Vitest testing framework.
 
